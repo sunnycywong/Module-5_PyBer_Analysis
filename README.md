@@ -9,19 +9,19 @@ The purpose of this assignment is to view the total weekly fares for each city t
 *First column* 
 - The city type of each city is categorized, which is being used to bucket the cities.  
 
-- Total Rides
+- Total Rides:
 *The total of rides that happened in each city was being calculated by using the ride ID, which is a unique identifier for each ride.*
 
-- Date
+- Date:
 *The date shows when each ride has taken place.*
 
-- Total Fares 
+- Total Fares:
 *The total sum of the cost of each ride.*
 
-- Average Fare per Ride 
+- Average Fare per Ride:
 *Total fare divided by total rides, to show the average cost per ride of each city type.* 
 
-- Average Fare per Driver
+- Average Fare per Driver:
 *Total fares divided by the total number of drivers in each city, which the driver count data was being used. This shows the average cost per driver in each city type.*
 
 ## (3) Summary
