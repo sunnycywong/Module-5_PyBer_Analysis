@@ -10,7 +10,7 @@ The purpose of this assignment is to view the total weekly fares for each city t
 - The city type of each city is categorized, which is being used to bucket the cities.  
 
 - Total Rides
-*The total of rides that happened in each city was being calculated by using the ride ID, which is a unique identifier for each ride. *
+*The total of rides that happened in each city was being calculated by using the ride ID, which is a unique identifier for each ride.*
 
 - Date
 *The date shows when each ride has taken place.*
